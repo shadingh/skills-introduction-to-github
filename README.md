@@ -1,4 +1,4 @@
-<header>
+print('hello') 
 
 <!--
   <<< Author notes: Course header >>>
